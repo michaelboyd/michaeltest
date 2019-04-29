@@ -32,6 +32,11 @@
     "desktopstartupformkey": "e4a8acfb47ba4bb8bf0e3dd8e17a11ad",
     "winmobileguidkey": "",
     "APPLICATION_THEME": "default",
+    "ide_appEvents": {
+        "desktop": {
+            "preappinit": "AS_AppEvents_h0a58ab37d8a4644bdec96958d1180e4"
+        }
+    },
     "build": "debug",
     "mastersProperties": {
         "mastersVersion": "2.0.0"
@@ -196,11 +201,5 @@
     "mwportkey": "",
     "category": "app",
     "createdVizVersion": "8.3.0",
-    "mwhttpsportkey": "",
-    "ide_appEvents": {
-        "desktop": {
-            "preappinit": "AS_AppEvents_h0a58ab37d8a4644bdec96958d1180e4"
-        }
-    },
-    "export.type": "studioviz"
+    "mwhttpsportkey": ""
 }
